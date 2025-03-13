@@ -7,7 +7,7 @@ This project explores the application of **AdaBoost** for customer churn predict
 - **Data Preprocessing:**  
   - Removal of redundant columns  
   - Encoding categorical variables (frequency & ordinal encoding)  
-  - Handling missing values with mean/median/mode imputation  
+  - Handling missing values with KNN imputation  
   - Data normalization using Min-Max scaling  
 
 - **Model Selection: AdaBoost**  
