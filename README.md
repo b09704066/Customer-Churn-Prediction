@@ -23,15 +23,6 @@ This project explores the application of **AdaBoost** for customer churn predict
   - Used **GridSearchCV** to optimize key parameters  
   - Evaluated performance based on F1-score  
 
-## Repository Structure  
-```
-├── data/              # Raw & processed datasets  
-├── notebooks/         # Jupyter Notebooks for EDA & AdaBoost training  
-├── models/            # Saved AdaBoost models  
-├── src/               # Python scripts for preprocessing & model training  
-├── README.md          # Project overview  
-```
-
 ## Results & Insights  
 - AdaBoost effectively balances interpretability and accuracy for default prediction  
 - SMOTENC significantly improved model sensitivity toward minority classes  
